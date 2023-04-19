@@ -1,0 +1,11 @@
+.carouselExampleCaptions {
+    height: 100vh;
+}
+
+.offcanvas-btn {
+height: 60px;
+width: 60px;
+position: fixed;
+bottom: 20px;
+right: 20px;
+}
